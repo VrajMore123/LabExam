@@ -20,9 +20,7 @@ public class LargestNumber {
 			else
 				System.out.println("the largest number is ="+c);
 			
-		float avg=(a+b+c)/3;
-			
-			System.out.println("the average of 3 number is ="+avg);
+		
 
 
 			
