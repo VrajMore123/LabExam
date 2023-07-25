@@ -23,6 +23,9 @@ public class LargestNumber {
 		float avg=(a+b+c)/3;
 			
 			System.out.println("the average of 3 number is ="+avg);
+
+
+			
 			
 		}
 
