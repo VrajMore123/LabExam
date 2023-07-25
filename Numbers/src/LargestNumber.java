@@ -21,11 +21,6 @@ public class LargestNumber {
 				System.out.println("the largest number is ="+c);
 			
 			
-			double avg=(a+b+c)/3;
-			
-			System.out.println("the average of 3 numbers is=="+avg);
-			
-			
 			
 			
 		}
