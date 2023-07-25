@@ -24,6 +24,8 @@ public class LargestNumber {
 			
 			System.out.println("the average of 3 number is ="+avg);
 
+			
+
 
 			
 			
